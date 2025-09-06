@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Irash Kasthuri Arachchi</h1>
 <h3 align="center">On a journey through switches, routers & clouds</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=irash24&label=Profile%20views&color=0e75b6&style=flat" alt="irash24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irash24&label=Profile%20views&color=0e75b6&style=flat" alt="irash24" /> </p>
+
+- 🧑‍🎓 I’m an Undergraduate at **KDU**
 
 - 📫 How to reach me **irashsasanga99@gmail.com**
 
